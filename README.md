@@ -8,7 +8,7 @@ Admin URL: http://studentskeprice.000webhostapp.com/admin
 Admin username: admin
 Admin password: admin
 
-Studentske price is a website i created using PHP and CodeIgniter, following MVC paradigm. For the time being, the only purpose of this web site is to demonstrate my skill in web development, focusing on PHP, CodeIgniter, understanding of MVC paradigm and OOP design. Some interesting features are:
+Studentske price is a website I created using PHP and CodeIgniter, following MVC paradigm. For the time being, the only purpose of this web site is to demonstrate my skill in web development, focusing on PHP, CodeIgniter, understanding of MVC paradigm and OOP design. Some interesting features are:
   - upvote/downvote system which uses ajax and php cookies and allows users to make either upvote or downote of a story
   - rubrike: uses php/mysql pagination to display 15 stories at a time, ordered by either popularity or date
   - admin pages: uses php sessions and sha1 encryption to log in as administrator and either approve or delete new stories 
@@ -23,4 +23,4 @@ Studentske price is a website i created using PHP and CodeIgniter, following MVC
   - possibly make users register and login before writing stories
   - etc.
   
-The website was created all by myself, and that includes both front-end and back-end (ofcourse, with help of my friend Google), as well as designing a mysql database. Write a story, make a suggestion or give me a job. And have a nice day.
+The website was created all by myself, and that includes both front-end and back-end (ofcourse, with help of my friend Google), as well as designing a mysql database. Write a story, make a suggestion or get me a job. And have a nice day.
