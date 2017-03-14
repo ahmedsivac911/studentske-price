@@ -23,4 +23,4 @@ Studentske price is a website I created using PHP and CodeIgniter, following MVC
   - possibly make users register and login before writing stories
   - etc.
   
-The website was created all by myself, and that includes both front-end and back-end (ofcourse, with help of my friend Google), as well as designing a mysql database. The complete web site is available for download in sp.rar file (I know, not a git way but still, serves its' purpose). Write a story, make a suggestion or get me a job. And have a nice day.
+The website was created all by myself, and that includes both front-end and back-end (ofcourse, with help of my friend Google), as well as designing a mysql database. The complete web site is available for download in sp.rar file (I know, not a git way but still, serves its' purpose). Write a story, make a suggestion and have a nice day.
